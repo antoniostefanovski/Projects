@@ -2,7 +2,20 @@
 
 This **repository** serves as a comprehensive index of my projects, featuring detailed descriptions, objectives, and links to each project's individual repository. Explore the README to discover a variety of innovative and diverse projects I've worked on, showcasing my skills and growth as a **Software Engineer**. The projects are ordered by their most recent completion date for your convenience.
 
-## PROJECT #1: Food Ordering Application (Apr 2024 - June 2024)
+## PROJECT #1: Informirajse DevOps (June 2024 - June 2024)
+
+**Brief Description:** I've used my application from a previous project and containerized it using Docker, and deployed it using Kubernetes. This setup includes managing deployment, services, and ingress configurations to ensure efficient and scalable operations in a cloud-native environment.
+
+**Tools Used:**
+- **Github Actions**
+- **Dockerfile**
+- **Docker Compose**
+- **Kubernetes**
+
+**Link Reference:**
+[Repository](https://github.com/antoniostefanovski/Informirajse-KIII)
+
+## PROJECT #2: Food Ordering Application (Apr 2024 - June 2024)
 
 **Brief Description:** The Food Ordering Application is a module developed for Dynamics 365 Finance & Operations (F&O) designed to facilitate food ordering processes. Users can create and manage orders, specify meals and quantities, and handle delivery details. The system includes functionalities for budget management, order status updates, and discount calculations, making it a comprehensive solution for managing food orders within an organization. 
 
@@ -22,7 +35,7 @@ This **repository** serves as a comprehensive index of my projects, featuring de
 **Link Reference:**
 This project is currently private and the source code will not be shared.
 
-## PROJECT #2: Mail System (May 2024 – July 2024)
+## PROJECT #3: Mail System (May 2024 – July 2024)
 
 **Brief Description:** Mail System is a communication platform designed and developed for Ss. Cyril and Methodius University in Skopje (UKIM). This system enables the administration of UKIM and its individual faculties to efficiently send emails directly to students, ensuring streamlined and effective communication.
 
@@ -39,7 +52,7 @@ This project is currently private and the source code will not be shared.
 **Link Reference:**
 This project is currently private and the source code will not be shared.
 
-## PROJECT #3: Irregularities System (Apr 2024 – July 2024)
+## PROJECT #4: Irregularities System (Apr 2024 – July 2024)
 
 **Brief Description:** The Irregularities System is a platform developed for the Faculty of Computer Science and Engineering (FCSE) to allow students and professors to report and discuss irregularities. Users can create threads on various types of issues, which are then moderated by designated roles including administration and deans, ensuring a structured and effective resolution process.
 
@@ -58,7 +71,7 @@ This project is currently private and the source code will not be shared.
 **Link Reference:**
 [Gitlab Repository](https://gitlab.finki.ukim.mk/wp/neregularnosti/-/tree/dev?ref_type=heads)
 
-## PROJECT #4: InformirajSe (Feb 2024 – June 2024)
+## PROJECT #5: InformirajSe (Feb 2024 – June 2024)
 
 **Brief Description:** InformirajSe is a social platform for the IT community to post blogs and discuss the latest in the IT world, including AI advancements. Users can share insights, comment on posts, and engage in discussions, fostering a collaborative and informed community.
 
@@ -90,7 +103,7 @@ This project is currently private and the source code will not be shared.
 **Legacy Version with Spring Boot**
 [Repository](https://github.com/antoniostefanovski/InformirajSe-Legacy)
 
-## PROJECT #5: Winedonia (Nov 2023 – Jan 2024)
+## PROJECT #6: Winedonia (Nov 2023 – Jan 2024)
 
 **Brief Description:** Winedonia is a sophisticated .NET web application that celebrates the rich and diverse world of Macedonian wines and wineries. This repository contains the source code for the web app, which follows a microservice architecture consisting of two integral components: the main app and a powerful search API.
 
@@ -111,7 +124,7 @@ This project is currently private and the source code will not be shared.
 **Link Reference:**
 [Repository](https://github.com/antoniostefanovski/Winedonia)
 
-## PROJECT #6: NastaniMK (June 2023 - July 2023)
+## PROJECT #7: NastaniMK (June 2023 - July 2023)
 
 **Brief Description:** Nastani is a web application designed to provide up-to-date information on currently popular events in Macedonia. Leveraging modern web technologies, Nastani offers a seamless and user-friendly experience for users looking to stay informed about local events.
 
@@ -132,7 +145,7 @@ This project is currently private and the source code will not be shared.
 **Link Reference:**
 [Repository](https://github.com/antoniostefanovski/NastaniMK)
 
-## PROJECT #7: UchamPython (Apr 2023 – June 2023)
+## PROJECT #8: UchamPython (Apr 2023 – June 2023)
 
 **Brief Description:** UchamPython is an innovative platform designed to help users learn programming through the Python programming language. Utilizing modern web technologies, this platform offers a fully responsive and user-friendly experience, making it accessible and engaging for learners of all levels.
 
